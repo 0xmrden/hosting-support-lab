@@ -2,18 +2,19 @@
 
 ## Overview
 
-This repository contains practical Linux and
-Hosting Support artifacts created during
-the Hosting Support Path.
+This repository documents verified practical skills
+developed during the Hosting Support Path.
 
-The goal is to demonstrate real progress toward
-Junior Hosting Support / Linux Support readiness.
+Each artifact represents one completed stage
+of practical learning.
 
 ---
 
 ## Artifacts
 
 — 01 — Linux Filesystem Basics
+
+— 02 — Evidence-Driven Linux File Diagnostics
 
 ---
 
@@ -28,5 +29,6 @@ The repository is not a course notebook,
 a command reference or a random
 practice archive.
 
-Each artifact represents one completed,
-verified practical skill.
+Each artifact documents one verified
+practical skill and the engineering
+idea behind it.
