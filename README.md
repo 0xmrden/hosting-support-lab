@@ -16,6 +16,8 @@ Each artifact represents one completed stage of practical learning.
 
 — 03 — Evidence-Driven Linux Package Management
 
+— 04 — Evidence-Driven Linux Permission Denied Diagnostics
+
 ---
 
 ## **Principles**
