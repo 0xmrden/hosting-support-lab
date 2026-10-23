@@ -18,6 +18,8 @@ Each artifact represents one completed stage of practical learning.
 
 — 04 — Evidence-Driven Linux Permission Denied Diagnostics
 
+— 05 — Evidence-Driven SSH Connection Troubleshooting
+
 ---
 
 ## **Principles**
